@@ -51,7 +51,7 @@ footer {
 
 	nav {
 		position: fixed;
-		top: vh/2-77px;
+		top: 128px;
 		left: 0px;
 		font-weight: 200;
 		margin: 16px;

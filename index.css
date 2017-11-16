@@ -33,8 +33,8 @@ header {
 	
 	p.centreimage {
 		position: absolute;
-		top:50vh-150px;
-		right:50vw+225px;
+		top:50vh;
+		right:50vw;
 		background: white;
 		overflow: hidden;
 		text-align: center;

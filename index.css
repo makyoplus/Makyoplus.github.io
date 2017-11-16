@@ -1,5 +1,6 @@
 a {
 	text-decoration: none;
+	color: black;
 }
 
 body {
@@ -22,4 +23,9 @@ h2 {
 nav a {
 	font-size: 24;
 	
+}
+
+p.centreimage {
+	width: 0.333vw;
+	height: 0.333vh;
 }

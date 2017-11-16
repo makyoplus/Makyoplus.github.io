@@ -38,6 +38,8 @@ nav {
 	}
 	
 	p.centreimage {
+		position: absolute;
+		top: 50vh;
 		margin: 0 auto 0 auto;
 		overflow: hidden;
 		background: white;

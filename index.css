@@ -2,12 +2,14 @@ a {
 	text-decoration: none;
 	color: black;
 	font-family: Helvetica;
+	line-height: 1.5;
 }
 
 body {
 	font-family: Helvetica;
 	font-size: 16px;
 	color: black;
+	line-height: 1.5;
 }
 
 header {
@@ -35,19 +37,16 @@ header {
 
 footer {
 	overflow: hidden;
-	background: blue;	
+	background: white;	
 }
 
 	nav {
 		margin: 16px;
-		background: yellow;
+		background: white;
 		float: left;
 		width: 33%;
 		height: 160px;
-		a {
-			font-size: 24;
 		}
-	}
 	p.donatebtc {
 		overflow: hidden;
 		margin: 16px;
@@ -55,4 +54,4 @@ footer {
 		float: right;
 		width: 33%;
 		height: 160px;
-	}
+		}

@@ -27,8 +27,8 @@ header {
 	
 	p.centreimage {
 		overflow: hidden;
-		width: 900px;
-		height: 600px;
+		width: 450px;
+		height: 300px;
 		margin: 0 auto 0 auto;
 		padding: 64px;
 	}
@@ -39,6 +39,7 @@ footer {
 
 	nav {
 		float: left;
+		width: 67%;
 		a {
 			font-size: 24;
 			padding: 64px;
@@ -46,4 +47,5 @@ footer {
 	}
 	p.donatebtc {
 		float: right;
+		width: 33%;
 	}

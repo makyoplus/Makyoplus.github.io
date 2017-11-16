@@ -13,6 +13,9 @@ body {
 }
 
 header {
+	position: fixed;
+	top: 0;
+	right: 0;
 	background: blue;
 	width: 100vw;
 }
@@ -52,7 +55,7 @@ footer {
 	nav {
 		background: yellow;
 		position: fixed;
-		top: 0px;
+		top: 48px;
 		left: 0px;
 		font-weight: 200;
 		margin: 16px;

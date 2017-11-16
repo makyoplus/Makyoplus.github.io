@@ -47,10 +47,10 @@ footer {
 		}
 	}
 	p.donatebtc {
-		text-align: centre;
-		img { float: right;
-		}
 		margin: 16px;
+		img {
+			margin: 8px;
+		}
 		background: red;
 		float: right;
 		width: 33%;

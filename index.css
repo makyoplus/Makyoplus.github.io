@@ -34,6 +34,12 @@ header {
 		height: 300px;
 		margin: 16px auto 16px auto;
 	}
+	
+	p.bodyparagraph {
+		font-size: 16;
+		font-weight: 200;
+		text-align: center;
+	}
 
 footer {
 	overflow: hidden;
@@ -54,6 +60,6 @@ footer {
 		background: white;
 		float: right;
 		width: 20;
-		height: 154px;
+		height: 196px;
 		}
 		

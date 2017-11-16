@@ -32,9 +32,6 @@ header {
 	}
 	
 	p.centreimage {
-		position: absolute;
-		bottom:50vh;
-		left:50vw+225px;
 		background: white;
 		overflow: hidden;
 		text-align: center;
@@ -44,9 +41,6 @@ header {
 	
 	p.bodyparagraph {
 		overflow: hidden;
-		position: absolute;
-		top:50vh+300px;
-		right:50vw-225px;
 		width: 450px;
 		height: 300px;
 		font-size: 16;

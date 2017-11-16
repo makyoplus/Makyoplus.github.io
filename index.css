@@ -29,7 +29,6 @@ header {
 		width: 450px;
 		height: 300px;
 		margin: 0 auto 0 auto;
-		padding: 64px;
 	}
 
 footer {
@@ -37,14 +36,16 @@ footer {
 }
 
 	nav {
+		padding: 0 16px 0 16px;
 		float: left;
 		width: 67%;
 		a {
 			font-size: 24;
-			padding: 64px;
 		}
 	}
 	p.donatebtc {
+		text-align: right;
+		padding: 0 16px 0 16px;
 		float: right;
 		width: 33%;
 	}

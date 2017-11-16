@@ -34,13 +34,12 @@ header {
 	p.centreimage {
 		position: absolute;
 		bottom:50vh;
-		left:50vw+112px;
+		left:50vw+225px;
 		background: white;
 		overflow: hidden;
 		text-align: center;
 		width: 450px;
 		height: 300px;
-		margin: 8px auto 8px auto;
 	}
 	
 	p.bodyparagraph {
@@ -53,7 +52,6 @@ header {
 		font-size: 16;
 		font-weight: 200;
 		text-align: center;
-		padding: 56px;
 	}
 
 footer {

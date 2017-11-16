@@ -11,7 +11,7 @@ body {
 }
 
 header {
-	padding: 64px;
+	padding: 16px;
 }
 
 	h1 {
@@ -24,17 +24,26 @@ header {
 		font-weight: 300;
 		text-align: center;	
 	}
-
-nav a {
-	font-size: 24;
-	padding: 64px;
 	
+	p.centreimage {
+		overflow: hidden;
+		width: 900px;
+		height: 600px;
+		margin: 0 auto 0 auto;
+		padding: 64px;
+	}
+
+footer {
+	overflow: hidden;	
 }
 
-p.centreimage {
-	overflow: hidden;
-	width: 900px;
-	height: 600px;
-	margin: 0 auto 0 auto;
-	padding: 64px;
-}
+	nav {
+		float: left;
+		a {
+			font-size: 24;
+			padding: 64px;
+		}
+	}
+	p.donatebtc {
+		float: right;
+	}

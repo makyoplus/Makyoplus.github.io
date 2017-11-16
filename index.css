@@ -32,6 +32,9 @@ header {
 	}
 	
 	p.centreimage {
+		position: absolute;
+		top:50vh;
+		right:50vw;
 		background: white;
 		overflow: hidden;
 		text-align: center;
@@ -55,7 +58,7 @@ footer {
 	nav {
 		background: yellow;
 		position: fixed;
-		top: 48px;
+		top: 25vh;
 		left: 0px;
 		font-weight: 200;
 		margin: 16px;

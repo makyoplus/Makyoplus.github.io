@@ -28,7 +28,7 @@ header {
 		overflow: hidden;
 		width: 450px;
 		height: 300px;
-		margin: 0 auto 0 auto;
+		margin: 16 auto 16 auto;
 	}
 
 footer {
@@ -39,6 +39,7 @@ footer {
 		background: yellow;
 		float: left;
 		width: 33%;
+		height: 300px;
 		a {
 			font-size: 24;
 		}
@@ -47,4 +48,5 @@ footer {
 		background: red;
 		float: right;
 		width: 33%;
+		height: 300px;
 	}

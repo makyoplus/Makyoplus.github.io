@@ -32,7 +32,8 @@ header {
 	}
 
 footer {
-	overflow: hidden;	
+	overflow: hidden;
+	background: blue;	
 }
 
 	nav {

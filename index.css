@@ -55,3 +55,8 @@ footer {
 		width: 20;
 		height: 154px;
 		}
+		
+section.bottomtext {
+	text-align: centre;
+	margin: 16px;
+}

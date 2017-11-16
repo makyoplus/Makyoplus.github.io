@@ -15,7 +15,6 @@ body {
 header {
 	background: blue;
 	width: 100vw;
-	padding: 16px;
 }
 
 	h1 {
@@ -51,6 +50,7 @@ footer {
 }
 
 	nav {
+		background: yellow;
 		position: fixed;
 		top: 0px;
 		left: 0px;

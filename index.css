@@ -14,7 +14,7 @@ body {
 
 header {
 	background: white;
-	padding: 96px;
+	padding: 80px;
 }
 
 	h1 {
@@ -33,7 +33,7 @@ header {
 		overflow: hidden;
 		width: 450px;
 		height: 300px;
-		margin: 16px auto 16px auto;
+		margin: 32px auto 32px auto;
 	}
 	
 	p.bodyparagraph {

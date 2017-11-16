@@ -51,12 +51,12 @@ footer {
 
 	nav {
 		position: absolute;
-		top: 8px;
+		top: 0px;
 		left: 0px;
 		font-weight: 200;
 		margin: 16px;
 		float: left;
-		width: 33%;
+		width: 20%;
 		height: 154px;
 		}
 		

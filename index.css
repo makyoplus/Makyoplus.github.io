@@ -50,7 +50,7 @@ footer {
 }
 
 	nav {
-		position: absolute;
+		position: fixed;
 		top: vh-154px;
 		left: 0px;
 		font-weight: 200;

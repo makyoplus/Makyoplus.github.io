@@ -1,6 +1,7 @@
 a {
 	text-decoration: none;
 	color: black;
+	font-family: Helvetica;
 }
 
 body {
@@ -26,6 +27,6 @@ nav a {
 }
 
 p.centreimage {
-	width: 0.333vw;
-	height: 0.333vh;
+	width: 800px;
+	margin: 0 auto 0 auto;
 }

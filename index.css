@@ -21,9 +21,7 @@ header {
 	width: 100vw;
 }
 nav {
-	position: relative;
-	top: 0;
-	right: 0px;
+	float: left;
 	font-weight: 200;
 	padding: 16px;
 	}

@@ -36,17 +36,15 @@ footer {
 }
 
 	nav {
-		padding: 0 16px 0 16px;
 		background: yellow;
 		float: left;
-		width: 67%;
+		width: 33%;
 		a {
 			font-size: 24;
 		}
 	}
 	p.donatebtc {
 		background: red;
-		padding: 0 16px 0 16px;
 		float: right;
 		width: 33%;
 	}

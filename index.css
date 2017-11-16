@@ -38,9 +38,8 @@ nav {
 	}
 	
 	p.centreimage {
-		position: absolute;
-		top: 50vh;
-		right: 50vw;
+		margin: 0 auto 0 auto;
+		overflow: hidden;
 		background: white;
 		overflow: hidden;
 		text-align: center;
@@ -49,6 +48,7 @@ nav {
 	}
 	
 	p.bodyparagraph {
+		margin: 0 auto 0 auto;
 		overflow: hidden;
 		width: 450px;
 		height: 300px;

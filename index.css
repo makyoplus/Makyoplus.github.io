@@ -28,7 +28,7 @@ header {
 		overflow: hidden;
 		width: 450px;
 		height: 300px;
-		margin: 16 auto 16 auto;
+		margin: 16px auto 16px auto;
 	}
 
 footer {
@@ -36,6 +36,7 @@ footer {
 }
 
 	nav {
+		margin: 16px;
 		background: yellow;
 		float: left;
 		width: 33%;
@@ -45,6 +46,7 @@ footer {
 		}
 	}
 	p.donatebtc {
+		margin: 16px;
 		background: red;
 		float: right;
 		width: 33%;

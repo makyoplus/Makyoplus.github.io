@@ -50,7 +50,6 @@ footer {
 		}
 	p.donatebtc {
 		font-weight: 200;
-		overflow: hidden;
 		margin: 16px;
 		background: white;
 		float: right;
@@ -58,7 +57,3 @@ footer {
 		height: 154px;
 		}
 		
-section.bottomtext {
-	text-align: center;
-	font-weight: 100;
-}

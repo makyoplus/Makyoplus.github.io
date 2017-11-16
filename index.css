@@ -14,6 +14,7 @@ body {
 
 header {
 	background: white;
+	padding: 96px;
 }
 
 	h1 {
@@ -38,7 +39,8 @@ header {
 	p.bodyparagraph {
 		font-size: 16;
 		font-weight: 200;
-		text-align: center;
+		text-align: center
+		padding: 96px;
 	}
 
 footer {

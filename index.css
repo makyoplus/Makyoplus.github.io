@@ -45,13 +45,13 @@ footer {
 		background: white;
 		float: left;
 		width: 33%;
-		height: 160px;
+		height: 154px;
 		}
 	p.donatebtc {
 		overflow: hidden;
 		margin: 16px;
 		background: white;
 		float: right;
-		width: 33%;
-		height: 160px;
+		width: 20;
+		height: 154px;
 		}

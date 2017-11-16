@@ -43,7 +43,7 @@ footer {
 		background: yellow;
 		float: left;
 		width: 33%;
-		height: 300px;
+		height: 128px;
 		a {
 			font-size: 24;
 		}
@@ -53,5 +53,5 @@ footer {
 		background: red;
 		float: right;
 		width: 33%;
-		height: 300px;
+		height: 128px;
 	}

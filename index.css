@@ -11,6 +11,7 @@ body {
 }
 
 header {
+	background: blue;
 }
 
 	h1 {
@@ -25,6 +26,7 @@ header {
 	}
 	
 	p.centreimage {
+		background: yellow;
 		overflow: hidden;
 		width: 450px;
 		height: 300px;
@@ -48,9 +50,6 @@ footer {
 	}
 	p.donatebtc {
 		margin: 16px;
-		img {
-			margin: 8px;
-		}
 		background: red;
 		float: right;
 		width: 33%;

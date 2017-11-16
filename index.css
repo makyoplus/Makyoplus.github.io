@@ -10,23 +10,29 @@ body {
 	color: black;
 }
 
-h1 {
-	font-size: 32;
-	text-align: center;
+header {
+	padding: 64px;
 }
 
-h2 {
-	font-size: 24;
-	font-weight: 300;
-	text-align: center;
-}
+	h1 {
+		font-size: 32;
+		text-align: center;
+	}
+
+	h2 {
+		font-size: 24;
+		font-weight: 300;
+		text-align: center;	
+	}
 
 nav a {
 	font-size: 24;
+	padding: 64px;
 	
 }
 
 p.centreimage {
 	width: 800px;
 	margin: 0 auto 0 auto;
+	padding: 64px;
 }

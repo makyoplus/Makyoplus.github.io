@@ -41,7 +41,7 @@ header {
 		font-size: 16;
 		font-weight: 200;
 		text-align: center;
-		padding: 16px;
+		padding: 32px;
 	}
 
 footer {
@@ -56,13 +56,5 @@ footer {
 		float: left;
 		width: 33%;
 		height: 154px;
-		}
-	p.donatebtc {
-		font-weight: 200;
-		margin: 16px;
-		background: white;
-		float: right;
-		width: 20;
-		height: 196px;
 		}
 		

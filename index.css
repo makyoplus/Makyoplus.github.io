@@ -11,7 +11,7 @@ body {
 }
 
 header {
-	background: blue;
+	background: white;
 }
 
 	h1 {
@@ -43,15 +43,15 @@ footer {
 		background: yellow;
 		float: left;
 		width: 33%;
-		height: 128px;
+		height: 192px;
 		a {
 			font-size: 24;
 		}
 	}
 	p.donatebtc {
 		margin: 16px;
-		background: red;
+		background: white;
 		float: right;
 		width: 33%;
-		height: 128px;
+		height: 192px;
 	}

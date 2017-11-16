@@ -15,6 +15,9 @@ body {
 header {
 	background: white;
 	padding: 16px;
+	position: absolute;
+	top: 0;
+	right: 0;
 }
 
 	h1 {
@@ -41,7 +44,7 @@ header {
 		font-size: 16;
 		font-weight: 200;
 		text-align: center;
-		padding: 48px;
+		padding: 56px;
 	}
 
 footer {
@@ -50,6 +53,9 @@ footer {
 }
 
 	nav {
+		position: absolute;
+		top: 8px;
+		right: 8px;
 		font-weight: 200;
 		margin: 16px;
 		background: white;

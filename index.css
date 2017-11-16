@@ -43,15 +43,16 @@ footer {
 		background: yellow;
 		float: left;
 		width: 33%;
-		height: 192px;
+		height: 160px;
 		a {
 			font-size: 24;
 		}
 	}
 	p.donatebtc {
+		overflow: hidden;
 		margin: 16px;
 		background: white;
 		float: right;
 		width: 33%;
-		height: 192px;
+		height: 160px;
 	}

@@ -20,11 +20,6 @@ header {
 	background: white;
 	width: 100vw;
 }
-nav {
-	float: left;
-	font-weight: 200;
-	padding: 16px;
-	}
 
 	h1 {
 		font-size: 32;
@@ -53,6 +48,12 @@ nav {
 		font-size: 16;
 		font-weight: 200;
 		text-align: center;
+	}
+	
+nav {
+	float: left;
+	font-weight: 200;
+	padding: 16px;
 	}
 
 footer {

@@ -33,7 +33,7 @@ header {
 	}
 	
 	p.centreimage {
-		margin: 160px auto 0 auto;
+		margin: 176px auto 0 auto;
 		overflow: hidden;
 		text-align: center;
 		width: 450px;
@@ -41,7 +41,7 @@ header {
 	}
 	
 	p.bodyparagraph {
-		margin: 64px auto 0 auto;
+		margin: 64px auto 64px auto;
 		width: 100vw;
 		font-size: 16;
 		font-weight: 200;

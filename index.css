@@ -16,7 +16,7 @@ header {
 	position: fixed;
 	top: 0;
 	right: 0;
-	padding: 8px auto 0 auto;
+	padding: 16px auto 8 auto;
 	overflow: hidden;
 	background: white;
 	width: 100vw;

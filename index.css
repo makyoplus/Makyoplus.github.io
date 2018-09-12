@@ -42,11 +42,12 @@ header {
 	}
 	
 	p.bodyparagraph {
-		margin: 256px auto 256px auto;
+		margin: 64px auto 256px auto;
 		width: 100vw;
 		font-size: 16;
 		font-weight: 200;
 		text-align: center;
+		background: red;
 	}
 	
 nav {

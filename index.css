@@ -1,39 +1,41 @@
-a {
+ {
 	text-decoration: none;
 	color: black;
-	font-family: Helvetica;
-	line-height: 1;
 }
 
 body {
-	font-family: Helvetica;
-	font-size: 16px;
 	color: black;
-	line-height: 1;
+	background-color: #48525a;
+	line-height: 2.4;
+	letter-spacing: 3px;
+	margin-left: 28%;
+	margin-right: 28%;
+	max-width: 100%;
+	overflow-x: hidden;
+	font-family: monospace;
 }
 
 header {
-	position: fixed;
+	position: top;
 	top: 0;
-	right: 0;
-	padding: 64px auto 16px auto;
-	overflow: hidden;
-	background: white;
-	width: 100vw;
+	margin-left: 0px;
+	padding-top: 48px;
+	padding-bottom: 48px;
+	width: 100%;
 }
 
 	h1 {
-		margin: 32px auto 32px 32px;
-		font-size: 32;
+		font-size: 2em;
+		text-align: left;
+		padding-top: 16px;
+		padding-bottom: 16px;
+	}
+
+	p.bodyparagraph {
+		font-size: 1em;
 		text-align: left;
 	}
 
-	h2 {
-		margin: 32px auto 16px 32px;
-		font-size: 24;
-		text-align: left;
-	}
-	
 	p.centreimage {
 		margin:  80px auto 64px 32px;
 		overflow: hidden;
@@ -41,16 +43,7 @@ header {
 		width: 450px;
 		height: 300px;
 	}
-	
-	p.bodyparagraph {
-		margin: 32px auto 32px 32px;
-		width: 100vw;
-		font-size: 16;
-		font-weight: 200;
-		text-align: left;
-		background: white;
-	}
-	
+
 nav {
 	text-align: center;
 	font-weight: 200;
@@ -58,12 +51,11 @@ nav {
 	}
 
 footer {
-	position: fixed;
+	position: bottom;
 	left: 0;
 	bottom: 0;
 	overflow: hidden;
-	margin: 0px 0px 0px 32px;
+	margin-left: 0%;
 	text-align: left;
-	background: white;
 	width: 100vw;
 }

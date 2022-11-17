@@ -20,14 +20,14 @@ header {
 	top: 0;
 	margin-left: 0px;
 	padding-top: 48px;
-	padding-bottom: 48px;
+	padding-bottom: 0px;
 	width: 100%;
 }
 
 	h1 {
-		font-size: 2em;
+		font-size: 1.8em;
 		text-align: left;
-		padding-top: 16px;
+		padding-top: 0px;
 		padding-bottom: 16px;
 	}
 

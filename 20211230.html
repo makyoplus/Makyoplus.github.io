@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<title>MAKYOPLUS</title>
+	<link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+	<header>
+		<a href="https://makyoplus.github.io/index.html">
+			<img src="20211230/21211230_1.png" alt="makyoplus" style="padding-bottom: 15px">
+		</a>
+	</header>
+
+	<h1>
+		20211230: VR Home Environment
+	</h1>
+
+	<p>
+	I had the idea  during one of this year's many lockdowns to create a virtual environment that corresponds the physical layout of my actual lounge.<br>
+	After loading into the home environment countless times before launching into other games (at the time of writing Steam tells me I've spent 597 hours in SteamVR)
+	it seemed like a good idea to create my own space;
+	a customisable half-loungeroom, half-starting menu, to land in when I put on the headset.
+	I figured it would be a project where I could learn some beginners skills in modelling and using the specific tools involved,
+	 and could be the foundation for further AR projects where the virtual and physical worlds should correspond.<br>
+
+	In the end I didn't create a 1:1 VR model of my IRL lounge, but instead ended up creating a very simple room, with baked-in lighting and a skybox made from scratch.<br>
+
+	I modelled the room in Blender, added some lighting, and created a procedural concrete/stone like texture for the surfaces.<br>
+
+	For the skybox, I used in-built landscape and sky creation tools, and spent some time messing around with shader nodes to try and create another stone-like texture for the mountains.<br>
+	</p>
+
+	<br><img src="20211230/21211230_2.png"><br><br>
+
+	<p>
+	In the interests of finishing the project in order to move on to others, I did not get too hung-up on creating realistic mountains or adding fog,
+	and the result I ended up with seems like some kind of high-res version of a Doom skybox.<br>
+	I rendered the skybox into 6 square images to correspond with the sides of a cube.<br>
+	</p>
+
+	<br><img src="20211230/21211230_3.png"><br><br>
+
+	<p>
+	I then split the room into four separate models (to allow higher resolution of baked in textures), and baked lightmaps for each of them, and exported them as fbx files. <br>
+	There was a little bit of setup required in order to have the model and texture image files in the correct format and location to work with the SteamVR tools.<br>
+	I then imported everything into SteamVR workshop. There was some mix up with an inches to centimeters conversion somewhere along the way, and I had to rescale the model in the hammer editor.<br>
+	After a bit more tinkering and adjustmenting, I compiled the environment and uploaded myself into it.<br>
+	</p>
+
+	<br><img src="20211230/21211230_4.png"><br><br>
+
+	<p>
+	It is very rudimentary and leaves lots to be desired; particularly the skybox and lack of normal maps or specularity in the room textures.<br>
+	In completing the project however I've learnt a bit about modelling generally, and also more specifically about using Blender and the SteamVR workshop tools. <br>
+	The former was well documented and I found it easy to find solutions for problems I encountered due to the wealth of tutorials, forums and blogs available for Blender. <br><br>
+	For SteamVR workshop tools however, the documentation was more sparse and I had to dig around more for information on peoples experiences, 
+	find forum posts and videos with people using the old tools, and then use trial and error to fill in the gaps.<br>
+	I find the prospect of modeling a virtual space on a 2D screen and then stepping into it and experiencing it as a 3D space an exciting one, particularly if we are able to share these spaces with other people.<br><br>
+	With the VR metaverse emerging in its current myriad manifestations, I look forward to the tools enabling this to become more accessible.<br><br>
+	I hope to build upon what I've learned with further iterations, including more detailed procedurally generated textures and surfaces, atmospheric effects etc.<br>
+	I'd like to explore algorthmically generating meshes from scripts in Blender, to create more detailed terrain for use in the skybox or stone meshes.<br>
+	Furthermore I hope to create some items/models to populate the space (maybe even try scanning real objects using OpenScan and bringing them into the virtual environment).<br>
+	-mP<br>
+	</p>
+
+	<footer>
+		<p>
+			<a href="https://makyoplus.github.io/index.html"><i>Back to index...</i></a><br>
+			maky0plus@pm.me
+		</p>
+	</footer>
+
+</body></html>
